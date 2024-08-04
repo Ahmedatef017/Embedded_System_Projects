@@ -1,0 +1,12 @@
+SERVICES/UART_SERVICES/UartServices.d \
+ SERVICES/UART_SERVICES/UartServices.o: \
+ ../SERVICES/UART_SERVICES/UartServices.c \
+ ../SERVICES/UART_SERVICES/../../LIB/StdTypes.h \
+ ../SERVICES/UART_SERVICES/../../MCAL/UART/UART_interface.h \
+ ../SERVICES/UART_SERVICES/UartServices.h
+
+../SERVICES/UART_SERVICES/../../LIB/StdTypes.h:
+
+../SERVICES/UART_SERVICES/../../MCAL/UART/UART_interface.h:
+
+../SERVICES/UART_SERVICES/UartServices.h:

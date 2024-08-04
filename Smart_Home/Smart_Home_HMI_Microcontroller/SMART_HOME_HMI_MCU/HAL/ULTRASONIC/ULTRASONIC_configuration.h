@@ -1,0 +1,13 @@
+/*
+ * ULTRASONIC_configuration.h
+ *
+ *  Created on: Jan 15, 2024
+ *      Author: ahmed
+ */
+
+#ifndef HAL_ULTRASONIC_ULTRASONIC_CONFIGURATION_H_
+#define HAL_ULTRASONIC_ULTRASONIC_CONFIGURATION_H_
+
+#define ULTRA_TRIG_PIN   PINB7
+
+#endif /* HAL_ULTRASONIC_ULTRASONIC_CONFIGURATION_H_ */
